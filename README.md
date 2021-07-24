@@ -1,7 +1,4 @@
 # SCA-Cloud-School-Application
-
-![Homepage](./screenshot.PNG)
-
 ## Built With
 
 - Docker
